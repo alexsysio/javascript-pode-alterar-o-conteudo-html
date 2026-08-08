@@ -1,6 +1,7 @@
-<img width="3000" height="1613" alt="Captura de tela 2026-08-08 144253" src="https://github.com/user-attachments/assets/86bdc06d-b059-4052-b5da-0026cf3074e3" />
+<a href="https://github.com/user-attachments/assets/f074a556-8854-429d-98a7-fc06829ac6ec" target="_blank">
+  <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/f074a556-8854-429d-98a7-fc06829ac6ec" />
+</a>
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/865029d2-a901-4963-9b7c-1955fb1c6643" width="100%">
-</p>
+<a href="https://github.com/user-attachments/assets/880f2747-2ace-4c8a-9b94-3237f5d852a3" target="_blank">
+  <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/880f2747-2ace-4c8a-9b94-3237f5d852a3" />
+</a>
