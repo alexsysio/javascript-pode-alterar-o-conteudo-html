@@ -14,11 +14,15 @@
 
 &nbsp;
 
+### HTML
+
 <a href="https://github.com/user-attachments/assets/edc4bb2b-6e7c-4df6-ba6c-78e9f292cd52">
   <img width="100%" alt="html" src="https://github.com/user-attachments/assets/edc4bb2b-6e7c-4df6-ba6c-78e9f292cd52" />
 </a>
 
 &nbsp;
+
+### JavaScript
 
 <a href="https://github.com/user-attachments/assets/ad4fafed-c967-4620-bb34-269f4220653b">
   <img width="100%" alt="javascript" src="https://github.com/user-attachments/assets/ad4fafed-c967-4620-bb34-269f4220653b" />
