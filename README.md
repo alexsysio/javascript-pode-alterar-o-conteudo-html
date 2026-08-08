@@ -1,4 +1,4 @@
-<img width="423" height="150" alt="ola-javascript" src="https://github.com/user-attachments/assets/a2dfe011-d833-46e9-a12f-573f5cf17c40" />
+<img width="1920" height="1032" alt="ola-javascript" src="https://github.com/user-attachments/assets/59a3fae4-7b1d-46b1-986a-66f33256b1d4" />
 
-<img width="423" height="150" alt="javascript-pode-alterar-conteudo-html" src="https://github.com/user-attachments/assets/b9589941-b181-4374-9abd-cb01a10be60d" />
+<img width="1920" height="1032" alt="javascript-pode-alterar-conteudo-html" src="https://github.com/user-attachments/assets/865029d2-a901-4963-9b7c-1955fb1c6643" />
 
