@@ -4,6 +4,8 @@
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/c676235c-6ca3-4564-81a8-e9e105807b4b" />
 </a>
 
+&nbsp;
+
 ### O que o JavaScript pode fazer?
 
 <a href="https://github.com/user-attachments/assets/9d8d7db8-7536-4eac-881f-dbb163467986">
