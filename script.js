@@ -1,3 +1,3 @@
 document.getElementById('mudarTexto').addEventListener('click', function () {
-  document.getElementById('demo').innerHTML = 'Olá JavaScript!';
+  document.getElementById('demo').innerHTML = 'JavaScript pode alterar o conteúdo HTML.';
 });
