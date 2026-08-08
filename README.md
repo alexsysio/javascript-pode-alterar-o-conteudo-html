@@ -5,8 +5,6 @@
 </a>
 
 ### O que o JavaScript pode fazer?
-<img width="1920" height="1032" alt="Captura de tela 2026-08-08 163335" src="https://github.com/user-attachments/assets/5467d22f-2fa7-461c-9e62-ca29cac52ee8" />
-
 
 <a href="https://github.com/user-attachments/assets/9d8d7db8-7536-4eac-881f-dbb163467986">
   <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/9d8d7db8-7536-4eac-881f-dbb163467986" />
