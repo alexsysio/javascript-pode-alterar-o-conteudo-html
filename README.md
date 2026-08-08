@@ -1,11 +1,7 @@
-<a href="https://github.com/user-attachments/assets/976438ee-f10b-4c52-8d23-8ace72cd85b9"">
-<img>
-https://github.com/user-attachments/assets/976438ee-f10b-4c52-8d23-8ace72cd85b9"
-<img />
-<a />
+<a href="https://github.com/user-attachments/assets/877fee95-5c5b-4441-836e-f087d3817208">
+  <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/877fee95-5c5b-4441-836e-f087d3817208" />
+</a>
 
-<a href="https://github.com/user-attachments/assets/26190893-682e-4ac2-a490-421ed75749a3"">
-<img>
-https://github.com/user-attachments/assets/26190893-682e-4ac2-a490-421ed75749a3"
-<img />
-<a />
+<a href="https://github.com/user-attachments/assets/4b608c09-3b7a-441c-8c1c-76091f12e42e">
+  <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/4b608c09-3b7a-441c-8c1c-76091f12e42e" />
+</a>
