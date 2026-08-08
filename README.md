@@ -1,7 +1,7 @@
 ### HTML JavaScript
 
-<a href="https://github.com/user-attachments/assets/5536d399-fba4-4340-9ea5-70cd4fdf4ff8">
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/5536d399-fba4-4340-9ea5-70cd4fdf4ff8" />
+<a href="https://github.com/user-attachments/assets/c676235c-6ca3-4564-81a8-e9e105807b4b">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/c676235c-6ca3-4564-81a8-e9e105807b4b" />
 </a>
 
 ### O que o JavaScript pode fazer?
